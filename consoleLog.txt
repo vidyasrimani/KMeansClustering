@@ -1,0 +1,27 @@
+K:2
+Compression Ratio :9.140568997732
+---------------------------------------------
+Clustering with k values : 2,5,10,15,20 
+K :2
+Compressed file :C:\Users\Vidya\Desktop\Assignment3\2-Penguins.jpg
+Compression Ratio :9.128661628016149
+---------------------------------------------
+K :5
+Compressed file :C:\Users\Vidya\Desktop\Assignment3\5-Penguins.jpg
+Compression Ratio :8.786713207717682
+---------------------------------------------
+K :10
+Compressed file :C:\Users\Vidya\Desktop\Assignment3\10-Penguins.jpg
+Compression Ratio :7.7701136794997305
+---------------------------------------------
+K :15
+Compressed file :C:\Users\Vidya\Desktop\Assignment3\15-Penguins.jpg
+Compression Ratio :6.83829024062173
+---------------------------------------------
+K :20
+Compressed file :C:\Users\Vidya\Desktop\Assignment3\20-Penguins.jpg
+Compression Ratio :6.769669277632724
+---------------------------------------------
+Average Compression Ratio :7.858689606697602
+Variance Compression Ratio :0.9418165154531692
+Completed
